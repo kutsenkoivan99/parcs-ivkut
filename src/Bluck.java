@@ -17,7 +17,7 @@ public class Bluck{
 
         AMInfo info = new AMInfo(curtask, null);
 
-        int N = 6;
+        int N = 100;
         int n = text.length() / N;
         int M = pattern.length();
 
